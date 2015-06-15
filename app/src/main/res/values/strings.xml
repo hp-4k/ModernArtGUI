@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ModernArtUI</string>
+
+    <string name="action_more_info">More information</string>
+    <string name="action_reset">Reset</string>
+
+    <string name="first_label">First rectangle</string>
+    <string name="second_label">Second rectangle</string>
+    <string name="third_label">Third rectangle</string>
+
+    <string name="r_text">R:</string>
+    <string name="g_text">G:</string>
+    <string name="b_text">B:</string>
+
+    <string name="button_text">Generate random colour</string>
+
+    <string name="dialog_message">Inspired by the works of artists such as Piet
+        Mondrian and Ben Nicholson.\nClick below to learn more!</string>
+    <string name="dialog_yes">Visit MOMA</string>
+    <string name="dialog_no">Not now</string>
+</resources>
